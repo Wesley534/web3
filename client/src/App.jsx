@@ -1,5 +1,6 @@
-import{Navbar, Footer, Services, Transactions, Welcome} from './components';
-import './App.css'
+import { Navbar, Footer, Services, Transactions, Welcome} from './components';
+// import Navbar from './components/Navbar';
+import './App.css';
 
 const App=() => {
 
