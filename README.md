@@ -26,7 +26,7 @@ It showcases smart contract development with Solidity, frontend integration with
 - **Local Development**: Uses Ganache for a local Ethereum blockchain during development.
 
 ## Tech Stack
-- **Frontend**: React, Vite, Tailwind CSS (assumed—replace if different)
+- **Frontend**: React, Vite, Tailwind CSS 
 - **Blockchain**: Ethereum, Ethers.js (v6)
 - **Smart Contract**: Solidity (v0.8.0), Hardhat
 - **Local Node**: Ganache (port 7545, chain ID 5777)
